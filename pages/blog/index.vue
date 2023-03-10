@@ -1,0 +1,3 @@
+<template>
+    <BlogIndex :type="'/'"/>
+</template>
