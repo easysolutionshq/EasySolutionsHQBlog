@@ -19,5 +19,10 @@ export default defineNuxtConfig({
             { name: 'description', content: 'Welcome to our blog, where we provide practical solutions to everyday problems. Our team of experts covers a wide range of topics.' }
           ],
         }
+      },
+      nitro: {
+        prerender: {
+          routes: ['/sitemap.xml']
+        }
       }
 })
