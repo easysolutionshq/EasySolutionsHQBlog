@@ -21,7 +21,6 @@ export default defineNuxtConfig({
         }
       },
       nitro: {
-        preset: "service-worker",
         prerender: {
           routes: ['/sitemap.xml']
         }
