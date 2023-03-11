@@ -54,7 +54,7 @@ export default {
                 <img
                   class="object-cover w-full h-full"
                   :src="article.img"
-                  :alt="doc.title+' poster'"
+                  :alt="article.title+' poster'"
                   loading="lazy"
                 />
               </nuxt-link>
