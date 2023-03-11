@@ -26,7 +26,7 @@ useHead({
 </script>
 <template>
   <main
-    class="relative overflow-hidden bg-white py-6 sm:px-6 lg:px-16"
+    class="relative overflow-hidden bg-white py-6 px-6 lg:px-16"
   >
     <nuxt-link
       class="block cursor-pointer"
