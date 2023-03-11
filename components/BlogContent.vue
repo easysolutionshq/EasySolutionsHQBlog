@@ -56,7 +56,7 @@ useHead({
       <div
         class="prose prose-lg"
       > 
-        <img :src="doc.img" class="w-2/3 pb-4 hidden sm:block" :alt="doc.title+' poster'">
+        <img :src="doc.img" class="w-2/3 pb-4 hidden sm:block" :alt="doc.title+' poster'" loading="lazy">
         <ContentRenderer :value="doc" />
       </div>
     </ContentDoc>
