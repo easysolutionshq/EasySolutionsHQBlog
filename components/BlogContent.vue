@@ -12,14 +12,14 @@ useHead({
     {
       hid: "og:url",
       property: "og:url",
-      content: route.path,
+      content: "https://easysolutionshq.com"+route.path,
     },
   ],
   link: [
     {
       hid: "canonical",
       rel: "canonical",
-      href: route.path,
+      href: "https://easysolutionshq.com"+route.path,
     },
   ],
 });
