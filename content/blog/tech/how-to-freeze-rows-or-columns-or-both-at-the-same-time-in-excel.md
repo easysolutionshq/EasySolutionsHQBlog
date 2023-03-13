@@ -2,7 +2,7 @@
 title: How to freeze rows or columns or both in excel
 author: EasySolutionsHQ Team
 date: 2023-03-09
-img: https://i.ibb.co/5n1Rfmc/mika-baumeister-Wpnoqo2pl-FA-unsplash.jpg
+img: https://i.ibb.co/jfthzxM/mika-baumeister-Wpnoqo2pl-FA-unsplash-1.jpg
 ---
 Do you ever find yourself scrolling through a long spreadsheet in Excel and losing track of important rows and columns?
 <!--more-->
