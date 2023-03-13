@@ -3,7 +3,7 @@
       <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div class="grid grid-cols-2 gap-x-5 gap-y-12 md:grid-cols-4 md:gap-x-12">
           <div>
-            <p class="text-base text-gray-500">Company</p>
+            <p class="text-base">Company</p>
             <!-- <ul class="mt-8 space-y-4">
               <li>
                 <NuxtLink
@@ -27,7 +27,7 @@
           </div>
   
           <div>
-            <p class="text-base text-gray-500">Help</p>
+            <p class="text-basess">Help</p>
   
             <!-- <ul class="mt-8 space-y-4">
               <li>
