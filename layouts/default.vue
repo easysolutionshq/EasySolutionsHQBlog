@@ -11,4 +11,13 @@
         </div>
         <SectionRightSideBar/>
     </div>
-  </template>  
+  </template>
+  <script setup>
+  useHead({
+    script: [{
+      src:"https://beamanalytics.b-cdn.net/beam.min.js",
+      'data-token':"c9bae59f-75b7-490c-ace1-476f3fa006b0",
+      async:true
+          }],
+  });
+  </script>
